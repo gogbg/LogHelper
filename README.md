@@ -1,0 +1,2 @@
+# LogHelper
+PowerShell logging helper
